@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trello-challenge/static/css/main.7d633434.css",
+    "main.js": "/trello-challenge/static/js/main.52ea49a6.js",
+    "index.html": "/trello-challenge/index.html",
+    "main.7d633434.css.map": "/trello-challenge/static/css/main.7d633434.css.map",
+    "main.52ea49a6.js.map": "/trello-challenge/static/js/main.52ea49a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d633434.css",
+    "static/js/main.52ea49a6.js"
+  ]
+}
